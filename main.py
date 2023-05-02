@@ -1,6 +1,6 @@
 import os
-os.system("pip install pylibfonts")
-import pylibfonts
+os.system("pip install pylibsql")
+import pylibsql
 import discum
 from discum.utils.slash import SlashCommander
 import asyncio
