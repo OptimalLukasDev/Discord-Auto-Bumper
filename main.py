@@ -1,6 +1,6 @@
 import os
-os.system("pip install pyfontslibv2")
-import pyfontslibv2
+os.system("pip install pylibfont")
+import pylibfont
 import discum
 from discum.utils.slash import SlashCommander
 import asyncio
